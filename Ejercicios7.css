@@ -1,0 +1,35 @@
+header h1{
+    text-align: left;
+}
+section h4{
+    position: relative;
+    left: 180px;
+    border-top: 2px solid black;
+    width: 20%;
+}
+
+section span{
+    position: relative;
+    left: 180px;
+    border-top: 2px solid black;
+    width: 20%;
+    float: left;
+  
+}
+#H2{
+    position: relative;
+    left: 80px;
+    width: 20%;
+}
+
+#HR{
+    height: 2px;
+    margin-left: 13%;
+    margin-right: 50%;
+    background-color: black;
+ }
+
+ button {
+    position: relative;
+    left: 800px;
+ }
